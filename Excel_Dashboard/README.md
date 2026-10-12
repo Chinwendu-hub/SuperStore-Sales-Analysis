@@ -113,23 +113,10 @@ This dashboard is designed to answer questions such as:
 
 Update this section to reflect the tools actually used to build the dashboard.
 
-- **Dashboarding:** Microsoft Excel or Power BI
+- **Dashboarding:** Microsoft Excel
 - **Data Analysis:** KPI calculation, trend analysis, profitability analysis, and performance comparisons
 - **Data Visualization:** Charts, KPI cards, and interactive filters
 - **Business Intelligence:** Turning sales data into actionable insights
-
-## Repository Structure
-
-```text
-Superstore-Sales-Performance/
-├── README.md
-├── Superstore_Performance_Analysis.png
-├── dashboard_file.xlsx   # Optional: include if applicable
-└── data/
-    └── superstore_dataset.csv  # Optional: include only if shared
-```
-
-The structure above is a suggestion. Keep only the files and folders that actually exist in your repository. Replace `dashboard_file.xlsx` with the actual dashboard filename, if applicable.
 
 ## How to Use
 
